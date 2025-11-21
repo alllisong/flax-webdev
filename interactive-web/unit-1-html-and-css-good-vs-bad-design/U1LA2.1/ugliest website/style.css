@@ -1,0 +1,31 @@
+body {
+  background-color: thistle;
+  background-image: url("https://www.shutterstock.com/shutterstock/photos/1909385530/display_1500/stock-vector-rotation-red-spirals-spin-illusion-1909385530.jpg");
+}
+
+h2 {
+color : #FFFFFF !important;
+text-align: center;
+}
+h1 {
+font-size:100px;
+}
+
+#pagetitle {
+background-color:  rgb(26, 15, 243);
+text-align: center;
+padding: 50px;
+border: solid;
+border-width: 100px;
+margin: 20px;
+
+}
+
+.center{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+
+}
